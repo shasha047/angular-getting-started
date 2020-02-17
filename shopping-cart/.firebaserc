@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "angular-shopping-cart-153ac": {
+      "hosting": {
+        "shopping-cart": [
+          "angular-shopping-cart-153ac"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "angular-shopping-cart-153ac"
+  }
+}
